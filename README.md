@@ -3,10 +3,15 @@
 A smart machine learning system designed to predict diabetes risk using real-world data. Leveraging advanced algorithms, this project enhances early detection, enabling proactive healthcare decisions. 🔬💡
 
 📌 Table of Contents
+
 About the Project
+
 Features
+
 Run
+
 Screenshots
+
 Contact
 
 🎯 About the Project
