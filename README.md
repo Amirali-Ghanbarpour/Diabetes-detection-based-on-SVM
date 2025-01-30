@@ -16,12 +16,14 @@ Contact
 
 
 🎯 About the Project
+
 This project leverages machine learning to predict the likelihood of diabetes based on medical data. Using a trained model, it analyzes key health indicators to provide early warnings, helping individuals and healthcare professionals take proactive measures.
 
 Purpose:
 To develop an accurate and efficient predictive system for early diabetes detection, assisting in preventive healthcare and reducing long-term complications.
 
 Problem Solved:
+
 🔍 Early Detection – Identifies diabetes risk before severe symptoms appear.
 📊 Data-Driven Insights – Uses patient data for personalized health assessments.
 ⚡ Fast & Automated – Reduces manual effort for doctors and patients in risk assessment.
