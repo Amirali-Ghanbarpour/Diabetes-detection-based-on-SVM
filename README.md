@@ -36,9 +36,13 @@ Problem Solved:
 🛠️ Run
 
 make sure you install these packages on your Anaconda Virtual Enviroment Terminal:
+
 numpy==1.26.3 (obligatory)
+
 scikit-learn==1.3.2 (obligatory)
+
 streamlit==1.29.0 (obligatory)
+
 streamlit-option-menu==0.3.6 (Optional)
 
 📸 Screenshots
