@@ -14,6 +14,7 @@ Screenshots
 
 Contact
 
+
 🎯 About the Project
 This project leverages machine learning to predict the likelihood of diabetes based on medical data. Using a trained model, it analyzes key health indicators to provide early warnings, helping individuals and healthcare professionals take proactive measures.
 
@@ -25,6 +26,7 @@ Problem Solved:
 📊 Data-Driven Insights – Uses patient data for personalized health assessments.
 ⚡ Fast & Automated – Reduces manual effort for doctors and patients in risk assessment.
 
+
 ✨ Features
 
 ✅ Accurate Diabetes Prediction – Utilizes machine learning algorithms to analyze patient data and predict the likelihood of diabetes with high precision.
@@ -32,6 +34,7 @@ Problem Solved:
 ✅ Automated Risk Assessment – Eliminates manual analysis by healthcare professionals, providing instant risk evaluations based on input health parameters.
 
 ✅ Scalable & Customizable – Can be expanded to include other diseases, additional health markers, and improved prediction accuracy with more data.
+
 
 🛠️ Run
 
@@ -45,6 +48,7 @@ streamlit==1.29.0 (obligatory)
 
 streamlit-option-menu==0.3.6 (Optional)
 
+
 📸 Screenshots
 
 ![1-git](https://github.com/user-attachments/assets/b1231adb-7abd-44c7-8d57-8b25346a5873)
@@ -56,4 +60,5 @@ streamlit-option-menu==0.3.6 (Optional)
 📬 Contact
 
 📧 Email: ghanbarpourshiadeh.amirali@gmail.com
+
 🔗 LinkedIn: Amirali Ghanbarpourshiadeh
